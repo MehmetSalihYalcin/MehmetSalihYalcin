@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MehmetSalihYalcin](https://github.com/MehmetSalihYalcin)
 
-- 💬 Ask me about **C# , HTML ,CSS ,JS ,C++ , Asp.net Mvc**
+- 💬 Ask me about **C# , HTML ,CSS ,Booatstrap,JS ,C++ ,.Net FreamWork , Asp.net Mvc**
 
 - 📫 How to reach me **joker16131613@gmail.com**
 
